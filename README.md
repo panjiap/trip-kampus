@@ -17,4 +17,14 @@ Mahasiswa sering menghadapi kendala dalam menemukan informasi open trip yang ama
 - **Styling:** Tailwind CSS
 - **Environment:** XAMPP / Localhost
 
+## 📸 Preview Aplikasi
 
+### 📱 Antarmuka Pengguna
+| Halaman Utama | Halaman Login | Halaman Register |
+|:---:|:---:|:---:|
+| ![Halaman Utama](img/utama.png) | ![Login](img/login.png) | ![Register](img/register.png) |
+
+### 🛠️ Panel Administrator
+| Dashboard Admin |
+|:---:|
+| ![Admin](img/admin.png) |
