@@ -17,17 +17,4 @@ Mahasiswa sering menghadapi kendala dalam menemukan informasi open trip yang ama
 - **Styling:** Tailwind CSS
 - **Environment:** XAMPP / Localhost
 
-## 📂 Struktur Folder
-- `/admin` - Panel kontrol pengelola
-- `/assets` - Asset visual dan file CSS (Tailwind)
-- `/config` - Konfigurasi koneksi database
-- `/layout` - Komponen UI reusable (header/footer)
-- `index.php` - Halaman utama aplikasi
 
-## ⚙️ Cara Instalasi
-1. Clone repositori ini.
-2. Pindahkan folder ke direktori `C:/xampp/htdocs/`.
-3. Buat database baru bernama `tripkampus` di phpMyAdmin.
-4. Impor file `.sql` yang tersedia di folder proyek.
-5. Sesuaikan konfigurasi database pada file di folder `/config`.
-6. Akses aplikasi melalui `localhost/trip-kampus`.
