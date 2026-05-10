@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap');
+body { font-family: 'Poppins', sans-serif; background-color: #f8f9fa; }
+
+/* Hero Section */
+.hero {
+    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('https://source.unsplash.com/1600x900/?travel,indonesia');
+    background-size: cover; background-position: center; height: 80vh; display: flex; align-items: center; color: white;
+}
+
+/* Card Styles */
+.card-trip { border: none; border-radius: 15px; transition: 0.3s; overflow: hidden; box-shadow: 0 5px 15px rgba(0,0,0,0.05); }
+.card-trip:hover { transform: translateY(-5px); box-shadow: 0 15px 30px rgba(0,0,0,0.15); }
+.card-trip img { height: 200px; object-fit: cover; }
+
+/* Utilities */
+.text-primary-custom { color: #22b3c1; }
+.btn-primary-custom { background-color: #22b3c1; color: white; border: none; }
+.btn-primary-custom:hover { background-color: #1a8a95; color: white; }
